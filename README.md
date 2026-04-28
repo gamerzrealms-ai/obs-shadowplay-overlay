@@ -34,3 +34,20 @@ A customizable OBS Studio script that displays clean, animated notifications whe
 ## 📜 License
 
 MIT
+
+-----------------------------------------------------------------------
+
+## 🔗 Works with Auto-Cut Workflow
+
+Want to automatically edit your recordings after capturing them?
+
+👉 Check out the companion Premiere tool:
+**Premiere Auto Cut Extension**
+
+This lets you:
+
+* Record with OBS
+* Instantly remove silence
+* Import directly into Premiere
+
+➡️ https://github.com/gamerzrealms-ai/premiere-auto-cut-extension
