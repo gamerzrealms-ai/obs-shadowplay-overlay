@@ -50,4 +50,4 @@ This lets you:
 * Instantly remove silence
 * Import directly into Premiere
 
-➡️ https://github.com/gamerzrealms-ai/premiere-auto-cut-extension
+➡️ https://github.com/gamerz-workflows/premiere-auto-cut-extension
